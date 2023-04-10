@@ -1,0 +1,2 @@
+{{$demo->subject}}
+{{$demo->body}}
